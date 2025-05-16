@@ -1,4 +1,14 @@
-Attribution-NonCommercial-NoDerivatives 4.0 International
+**CC BY-NC-ND 4.0 International**
+
+**TLDR:**
+
+- You are free to share, copy and redistribute the material in any medium or format.
+- The licensor cannot revoke these freedoms as long as you follow the license terms.
+- You may not use the material for commercial purposes.
+- If you remix, transform, or build upon the material, you may not distribute the modified material.
+- There are no additional restrictions.
+
+**Attribution-NonCommercial-NoDerivatives 4.0 International**
 
 * While Attribution is considered a requirement of this license in 
 order to distribute the work, it is in reality not necessary given that
