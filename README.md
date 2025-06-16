@@ -1,5 +1,11 @@
-# Human-Made<br> *A label for projects and art made without AI.*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/from-humans-for-humans/human-made/blob/main/assets/logo%2Btype/human_made_wt_lg.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/from-humans-for-humans/human-made/blob/main/assets/logo%2Btype/human_made_blk_lg.png">
+  <img src="https://github.com/from-humans-for-humans/human-made/blob/main/assets/logo%2Btype/human_made_blk_lg.png" alt="Human-Made Text and Logo">
+</picture>
 
+# *A label for projects and art made without AI.*
+<br />
 Human-Made is a simple label and/or symbol that can be added to non-AI projects of any kind.
 
 It is a way of highlighting their exclusively human-made nature and the non-use of generative AI.
@@ -7,6 +13,8 @@ It is a way of highlighting their exclusively human-made nature and the non-use 
 It operates on the honor system, and is not part of any certifying body.
 
 Human Made is entirely Open-Source and CC-licensed, and was designed to have the same feel as the symbols used by certifying bodies on products (like the Fairtrade or USDA Oranic labels).
+
+<br />
 
 ---
 
