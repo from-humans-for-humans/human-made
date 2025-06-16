@@ -1,7 +1,4 @@
-# Human-Made
-## *A label for projects and art made without AI.*
-
----
+# Human-Made<br> *A label for projects and art made without AI.*
 
 Human-Made is a simple label and/or symbol that can be added to non-AI projects of any kind.
 
