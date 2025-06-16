@@ -1,5 +1,7 @@
-## Human-Made
-#### *A label for projects and art made without AI.*
+# Human-Made
+## *A label for projects and art made without AI.*
+
+---
 
 Human-Made is a simple label and/or symbol that can be added to non-AI projects of any kind.
 
@@ -8,6 +10,8 @@ It is a way of highlighting their exclusively human-made nature and the non-use 
 It operates on the honor system, and is not part of any certifying body.
 
 Human Made is entirely Open-Source and CC-licensed, and was designed to have the same feel as the symbols used by certifying bodies on products (like the Fairtrade or USDA Oranic labels).
+
+---
 
 ### Specifics
 
@@ -37,6 +41,8 @@ If you used AI in any other capacity than as a research tool. This means:
 - You used it to generate images for you.
 - etc.
 
+---
+
 ### Usage
 
 There's nothing much to it - just grab a version of the logo or symbol and add it to your project, or its documentation. If you're not a fan of graphics, maybe add a link to this repo.
@@ -47,6 +53,8 @@ or download the entire folder to your computer. We also have an `imgur` link whe
 We also have some design guidelines around the current logo, font, and symbol in case you want to make versions for different formats, screens, etc.
 
 We highly encourage you to make t-shirts, stickers, posters, anything you think might be a good way to spread the love of human-made things.
+
+---
 
 ### Why?
 
@@ -59,6 +67,8 @@ and similar initiatives are being considered worldwide.
 That said, **we believe not enough has been done to actively celebrate work that eschews the use of AI-tools**. Celebrating this type of work will undoubtedly result in a greater
 recognition and dialogue around the dangers posed by generative AI tools. This dialogue is desperately needed at this point in time.
 
+---
+
 ### Us
 
 Human-Made shares its name with a Japanese clothing brand (which we love), but bears no relation to it.
@@ -68,6 +78,8 @@ Human-Made was born at the Interactive Telecommunications Program at NYU, as a w
 We thought it might be better to call out projects that remained within the all-human realm rather than interrogate those which leaned heavily on AI, given that at the beginning of 2025, most projects being made at the program already were using AI-generated code.
 
 *For Humans* is just an umbrella for this and other initiatives that we hope will continue to spawn from the program in the coming years.
+
+---
 
 ### License
 
