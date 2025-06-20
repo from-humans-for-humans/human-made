@@ -4,11 +4,11 @@
   <img src="https://github.com/from-humans-for-humans/human-made/blob/main/assets/logo%2Btype/human_made_blk_lg.png" alt="Human-Made Text and Logo">
 </picture>
 
-# *A label for projects and art made without AI.*
+# *A label for things made without AI.*
 <br />
-Human-Made is a simple label and/or symbol that can be added to non-AI projects of any kind.
+Human-Made is a simple label that can be added to non-AI projects of any kind.
 
-It is a way of highlighting their exclusively human-made nature and the non-use of generative AI.
+It is a way of highlighting their human-made nature and the non-use of generative AI.
 
 It operates on the honor system, and is not part of any certifying body.
 
@@ -32,16 +32,14 @@ If you like the symbol and want to put it on your bikeframe, car (maybe it was h
 
 #### Who Can Get Away With Using Human-Made With a Bit of Side-Eye?
 
-If in the course of making something, you've used AI as nothing more than a *research* tool, then (as of mid-2025) you should be fine. While we're sure that sooner rather than later
-bias will be intentionally and broadly built into the research capabilities of AI tools (likely driven by advertisers), AI tools still represent valuable research tools in their
-ability to cover large swaths of archival material and provide significant insights.
+If in the course of making something, you've used AI as nothing more than a *research* tool, then (as of mid-2025) you should be fine. While we're sure that sooner rather than later bias will be intentionally and broadly built into the research capabilities of AI tools (likely driven by advertisers), AI tools still represent valuable research tools in their ability to cover large swaths of archival material and provide significant insights.
 
 #### Who Cannot Use Human-Made?
 
 If you used AI in any other capacity than as a research tool. This means:
 
 - You used it to write code for you.
-- You used it to write for you, or edit your writing.
+- You used it to write prose for you, or edit your writing.
 - You used it to compose music for you.
 - You used it to generate images for you.
 - etc.
@@ -52,8 +50,7 @@ If you used AI in any other capacity than as a research tool. This means:
 
 There's nothing much to it - just grab a version of the logo or symbol and add it to your project, or its documentation. If you're not a fan of graphics, maybe add a link to this repo.
 
-You can find various examples, sizes, and variations of both the logo and symbol in the `/assets` directory. From there you can simply drag the images to your desktop,
-or download the entire folder to your computer. We also have an `imgur` link where the images are also hosted.
+You can find various examples, sizes, and variations of both the logo and symbol in the `/assets` directory. From there you can simply drag the images to your desktop, or download the entire folder to your computer. We also have an `imgur` link where the images are also hosted.
 
 We also have some design guidelines around the current logo, font, and symbol in case you want to make versions for different formats, screens, etc.
 
@@ -65,12 +62,9 @@ We highly encourage you to make t-shirts, stickers, posters, anything you think 
 
 The use of Generative AI - AI that is used to generate new "things", like code, art, or writing - is beginning to overwhelm all forms of human creativity.
 
-This poses significant challenges to the structure of human work, and by extension our society, our politics, and our future. In some cases, AI-use poses significant security
-considerations, like when it's used in safety or life-critical systems. The EU has recently (2024-25) attempted to curtail the use of AI in specific sectors through legislation,
-and similar initiatives are being considered worldwide.
+This poses significant challenges to the structure of human work, and by extension our society, our politics, and our future. In some cases, AI use poses significant security considerations, like when it's used in safety or life-critical systems. The EU has recently (2024-25) attempted to curtail the use of AI in specific sectors through legislation, and similar initiatives are being considered worldwide.
 
-That said, **we believe not enough has been done to actively celebrate work that eschews the use of AI-tools**. Celebrating this type of work will undoubtedly result in a greater
-recognition and dialogue around the dangers posed by generative AI tools. This dialogue is desperately needed at this point in time.
+That said, **we believe not enough has been done to actively celebrate work that eschews the use of AI-tools**. Celebrating this type of work will undoubtedly result in a greater recognition and dialogue around the dangers posed by generative AI tools. This dialogue is desperately needed at this point in time.
 
 ---
 
